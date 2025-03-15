@@ -10,15 +10,21 @@
 
 ## :page_with_curl: Descrição
 
-<p>Este projeto foi criado apenas por diversão, ele altera automaticamente o plano de fundo do computador com imagens icônicas do lendário "Vampetaço".</p>
+<p>Este projeto foi criado apenas por diversão, ele altera automaticamente o plano de fundo do computador para imagens icônicas do lendário "Vampetaço".</p>
 
 ## :computer: Como executar?
 
-Faça o download do `vampetaco.zip` : [https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip](https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip)
+ Faça o download do `vampetaco.zip`
+[https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip](https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip)
 
-Agora basta extrair e executar o arquivo Visual Basic Script `vampetaco.vbs` voilá
+ Agora basta extrair e executar o arquivo Visual Basic Script `vampetaco.vbs` voilá
 
+ ## :wastebasket: Como desinstalar?
+Remova o atalho do script .vbs `Vampetaco` da pasta `\Startup`
+> `C:\Users\<MeuUsuario>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\`
 
+Delete a pasta `\Vampetaco`
+> `C:\Users\<MeuUsuario>\AppData\Roaming\Vampetaco`
 
 ## :bookmark_tabs: Licença
 Este projeto está sob licença MIT. Consulte ```LICENSE``` para mais informações.
