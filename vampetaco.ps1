@@ -45,8 +45,11 @@ Criar-AtalhoInicializacao
 
 # Lista de URLs das imagens
 $imagensURLs = @(
-    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/refs/heads/main/images/vampeta-cease-fire.jpg",
-    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/refs/heads/main/images/vampeta-corte.jpg"
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/1-vampetaco-cease-fire.jpg",
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/2-vampetaco-abner.jpg",
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/3-vampetaco-yugioh.jpeg",
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/4-vampetaco-corte.jpg",
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/5-vampetaco-cristiano-ronaldo.jpg"
 )
 
 # Baixa imagens se ainda não existirem
