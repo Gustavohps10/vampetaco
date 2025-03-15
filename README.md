@@ -8,6 +8,38 @@
     <img src="https://img.shields.io/github/license/gustavohps10/vampetaco?label=License&colorA=030712&colorB=8b86ee&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHxSURBVEiJtZS/axVREIW/ScQuKhJELIyKqNjYGYKxsLKwsbAICNHWztikkyAi2BhLG0HwBwoWafIHiBqCpcQmxELBIDbhmcqQ5LPIRJ+buy/7RA8sc3dn7pwzM3sv/GdEnUMN4CJwrEGeLxHxpCtmddLuMNktQUt9pvZuEzfRiaSnw95dwHxErDXUNAlcr5Ls6LDhAzDfIHEr7cO0YyoRMdZQGKhH1O+Vns+lb0BdKszkSrECdRA4C6wDMxExCywCt4G9baFzABHxST0FXAL2pW8cOFxNvFudLiiZVvc0Lncjl+pEtYLnwDngBhv97AWuAneBp8CF3HwUOFTIu5oVr5QYh5J1y2DUsfSdzvevHc7CtboKhtI+Kih7DNzLmHfAcKcKqh+rQy5dHTvT9gBExAKwUIgrYpPgTdpR4H4lZjTtawB1BBgo5FoHXkTE5yKTOqWuZM/71QPquPpDnWqLm6vp/2qS/zGDdoK+DsPra9qSKsGvGUTEsgobv+Rmy4aByxGx3A1BO0p30UJEPEgl+9tUnQFuUn9BrgO3IuLtdgSo/X8lt4ASwXHgfa5fbX5MZee7JSiVO1KzbgT1ZC5bJeeauqieyGdRXUvfSP6KTbCkHoStLRoFZiPiYyYdBgbTNwPc4ffJrsM34GXtgfvX+AkvyO4YoQp6EQAAAABJRU5ErkJggg=="/>
 </p>
 
+<p>
+
+```
+                                                                                %%%%%%%%%%         
+                                                                              %%%%%%%%%%%%%%       
+                         :-:                                                 %%%%%%%%%%%%%%%%      
+                    ::::-----------                                          %*++++++**#%%%%%      
+                   -:==-=+++=====------====                                 *%**++====+**#%%%      
+                  --=============-----------======+                         +***+====+***#%%@      
+                  =+++===-========++==----------=======                     =*##**++*#***#%#**     
+                  ++++++=============+++===-------===---------       ====+++++++++++++***#*++*     
+                 +++++++++======----===++*+++====--=-----------===========+++**++==+++++*#+++      
+                ++++++++++++=============++  ***++++====--------====+++=====+**##*##****###        
+                *++++**+++++++============+++      %#**++++++========+++====+***+=-=+**###         
+                +++=++****+++===============++*      :    ##**++******++++++****++++*#%###         
+                +++++++*##**++===============+++     -        #*********++++*+*##########***       
+                *+++++**###**+==============++++**  =-             ****++++*++***#************     
+                *++++**##   **+====+==========+++**#               ***++++++++++++****++++++***    
+                ******##     **++++++++=======+++****+            #**+++++++++++**++++++===++***   
+                ****##        ****++++++++++++++++***++++    +*####*****+++++++++++++++++++++***#  
+                ***##          **********+++++++++++++*********###******+++++++++++++++++++++***## 
+                *###            ****###****++++++++****#******##*******+++++++++++++++*++++++***## 
+                ##                #####%@@@@%%%%@@@@@%####****##******++++++++++***#%%#********##  
+                #                   ##%@*%*+%%*%***%@@%#####*********++++#*+++++====+##**++***###  
+                                     %@@%##*#%%##*#%@@@##************+++++++++======++*******####% 
+                                 *****%@@@%%%%###%@@@@%#*************+++++++++++++++**###*****#### 
+                           *********+*#@@@##%#*++%@@@@%##************++++++++++++***###  #****#### 
+```
+
+</p>
+
+
 ## :page_with_curl: Descrição
 
 <p>Este projeto foi criado apenas por diversão, ele altera automaticamente o plano de fundo do computador para imagens icônicas do lendário "Vampetaço".</p>
