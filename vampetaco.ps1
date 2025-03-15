@@ -49,7 +49,7 @@ $imagensURLs = @(
     "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/2-vampetaco-abner.jpg",
     "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/3-vampetaco-cristiano-ronaldo.jpg"
     "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/4-vampetaco-corte.jpg",
-    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/5-vampetaco-yugioh.jpg",
+    "https://raw.githubusercontent.com/Gustavohps10/vampetaco/main/images/5-vampetaco-yugioh.jpg"
 )
 
 # Baixa imagens se ainda não existirem
