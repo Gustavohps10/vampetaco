@@ -17,7 +17,7 @@
  Faça o download do `vampetaco.zip`
 [https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip](https://github.com/Gustavohps10/vampetaco/releases/download/1.0/vampetaco.zip)
 
- Agora basta extrair e executar o arquivo Visual Basic Script `vampetaco.vbs` voilá
+ Agora basta extrair e executar o arquivo Visual Basic Script `vampetaco.vbs` e voilá
 
  ## :wastebasket: Como desinstalar?
 Remova o atalho do script .vbs `Vampetaco` da pasta `\Startup`
