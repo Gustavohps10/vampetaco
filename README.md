@@ -39,10 +39,15 @@
 
 </p>
 
-
 ## :page_with_curl: Descrição
 
 <p>Este projeto foi criado apenas por diversão, ele altera automaticamente o plano de fundo do computador para imagens icônicas do lendário "Vampetaço".</p>
+
+## ⭐ Dê uma estrela no projeto!
+
+Se você gostou deste projeto, deixe uma estrela no GitHub! Isso ajuda a dar visibilidade e motivação para melhorias.
+
+[![GitHub stars](https://img.shields.io/github/stars/Gustavohps10/vampetaco.svg?style=social)](https://github.com/Gustavohps10/vampetaco/stargazers)
 
 ## :computer: Como executar?
 
